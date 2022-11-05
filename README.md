@@ -15,5 +15,6 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
 Build Status:
+[![Build Status](https://dev.azure.com/BhanuAzureDevops/Project1/_apis/build/status/Bhanu-chittaboina.calculator?branchName=master)](https://dev.azure.com/BhanuAzureDevops/Project1/_build/latest?definitionId=2&branchName=master)
 
 
